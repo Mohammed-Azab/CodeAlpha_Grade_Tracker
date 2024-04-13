@@ -5,33 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55ea7876-dc4c-40e2-bb50-a08349a2bf9b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GradeTracker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application/Login.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application/Results.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application/Run/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application/SubjectSelectionGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application/icons/3d-render-robot-with-books (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application/icons/GitHub-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application/icons/LinkedInLogo.svg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application/icons/face.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application/icons/google.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application/icons/logo.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application/icons/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Application/icons/syntheticaBlackEye.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataBase/Cloud.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataBase/DataRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataBase/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataBase/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "280",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "A:/Java Projects/GradeTracker",
     "node.js.detected.package.eslint": "true",
@@ -109,6 +83,7 @@
       <workItem from="1712848505635" duration="6718000" />
       <workItem from="1713039660709" duration="286000" />
       <workItem from="1713040169605" duration="307000" />
+      <workItem from="1713041330781" duration="34000" />
     </task>
     <servers />
   </component>
